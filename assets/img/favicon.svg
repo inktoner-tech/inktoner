@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-    <rect width="64" height="64" rx="14" fill="#0f172a"></rect>
-    
-    <path d="M17 17h10v30H17z" fill="#38bdf8"></path>
-        
-    <path d="M32 17h20v8H45v22H36V25H32z" fill="#ffffff"></path>
-        
-    <circle cx="52" cy="48" r="4" fill="#38bdf8"></circle>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="INKTONER IT"><defs><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#62e5ff"/><stop offset="1" stop-color="#1688ff"/></linearGradient></defs><rect width="64" height="64" rx="15" fill="#070b12"/><rect x="2" y="2" width="60" height="60" rx="13" fill="none" stroke="#268fff" stroke-opacity=".65" stroke-width="1.5"/><path d="M13 15h38v7H35v27h-7V22H13z" fill="url(#blue)"/><text x="32" y="43" font-family="Arial,sans-serif" font-size="16" font-weight="900" text-anchor="middle" fill="#f4f9ff" stroke="#070b12" stroke-width=".4">IT</text><circle cx="49" cy="49" r="4" fill="#64e5ff"/></svg>
